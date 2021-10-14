@@ -3,3 +3,4 @@ Aris Revolusi
 - membuat platform untuk pengelolaan video
 - kolab dengan expert
 - membuat vlog
+- menjadi master web
